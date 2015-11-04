@@ -1,4 +1,4 @@
-<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="default.master.cs" Inherits="ntdslzda.Master._default" %>
+ï»¿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="default.master.cs" Inherits="ntdslzda.Master._default" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -43,7 +43,7 @@
             });
 
             function redirecturl() {
-                $.messager.alert("¾¯¸æ", "ÄúÉÐÎ´µÇÂ¼ÏµÍ³»òÕßµÇÂ¼ÒÑ¾­³¬Ê±,ÇëÖØÐÂµÇÂ¼", "warning", redirectlogin);
+                $.messager.alert("ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½Â¼ÏµÍ³ï¿½ï¿½ï¿½ßµï¿½Â¼ï¿½Ñ¾ï¿½ï¿½ï¿½Ê±,ï¿½ï¿½ï¿½ï¿½ï¿½Âµï¿½Â¼", "warning", redirectlogin);
             }
 
             function redirectlogin() {
